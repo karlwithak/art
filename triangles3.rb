@@ -11,15 +11,15 @@ end
 
 svg.build do 
   g transform: 'rotate(30 0 0)' do
-      ygap = 279
+      ygap = 245
       y = -950 
       xgap = 85
       color_dict = {r:0, g: 0, b: 0}
+      color_string = ''
       7.times do |i|
           y += ygap
-          x = -150 - (i * 120)
+          x = -250 + ((i % 2) * 142)
           10.times do
-              color_string = next_color(color_dict)
               path d: "M #{x += (112 + xgap)},#{y} l -56,97 l 112,0 l -56,-97 Z", fill: color_string, stroke: color_string, stroke_width: 50, stroke_linejoin: 'round'
               color_string = next_color(color_dict)
               path d: "M #{x += xgap},#{y} l 112,0 l -56,97 l -56,-97 Z", fill: color_string, stroke: color_string, stroke_width: 50, stroke_linejoin: 'round'
