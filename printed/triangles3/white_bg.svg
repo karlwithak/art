@@ -1,0 +1,157 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="750" height="1000" style="background:#fff" 
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<style type="text/css">
+<![CDATA[
+
+]]>
+</style>
+
+<g transform="rotate(30 0 0)">
+<path d="M -53,-705 l -56,97 l 112,0 l -56,-97 Z" fill="" stroke="" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 32,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(117, 141, 240)" stroke="rgb(117, 141, 240)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 229,-705 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(117, 141, 240)" stroke="rgb(117, 141, 240)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 314,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(56, 63, 6)" stroke="rgb(56, 63, 6)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 511,-705 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(56, 63, 6)" stroke="rgb(56, 63, 6)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 596,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(34, 21, 81)" stroke="rgb(34, 21, 81)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 793,-705 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(34, 21, 81)" stroke="rgb(34, 21, 81)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 878,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(96, 71, 4)" stroke="rgb(96, 71, 4)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1075,-705 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(96, 71, 4)" stroke="rgb(96, 71, 4)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1160,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(67, 66, 110)" stroke="rgb(67, 66, 110)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1357,-705 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(67, 66, 110)" stroke="rgb(67, 66, 110)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1442,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(245, 60, 28)" stroke="rgb(245, 60, 28)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1639,-705 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(245, 60, 28)" stroke="rgb(245, 60, 28)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1724,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(4, 213, 2)" stroke="rgb(4, 213, 2)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1921,-705 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(4, 213, 2)" stroke="rgb(4, 213, 2)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2006,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(88, 213, 197)" stroke="rgb(88, 213, 197)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2203,-705 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(88, 213, 197)" stroke="rgb(88, 213, 197)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2288,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(143, 3, 6)" stroke="rgb(143, 3, 6)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2485,-705 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(143, 3, 6)" stroke="rgb(143, 3, 6)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2570,-705 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(113, 180, 157)" stroke="rgb(113, 180, 157)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 89,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(113, 180, 157)" stroke="rgb(113, 180, 157)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 174,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(95, 9, 32)" stroke="rgb(95, 9, 32)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 371,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(95, 9, 32)" stroke="rgb(95, 9, 32)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 456,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(230, 248, 16)" stroke="rgb(230, 248, 16)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 653,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(230, 248, 16)" stroke="rgb(230, 248, 16)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 738,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(107, 195, 156)" stroke="rgb(107, 195, 156)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 935,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(107, 195, 156)" stroke="rgb(107, 195, 156)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1020,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(42, 153, 106)" stroke="rgb(42, 153, 106)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1217,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(42, 153, 106)" stroke="rgb(42, 153, 106)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1302,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(34, 204, 249)" stroke="rgb(34, 204, 249)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1499,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(34, 204, 249)" stroke="rgb(34, 204, 249)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1584,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(11, 213, 36)" stroke="rgb(11, 213, 36)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1781,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(11, 213, 36)" stroke="rgb(11, 213, 36)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1866,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(39, 64, 43)" stroke="rgb(39, 64, 43)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2063,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(39, 64, 43)" stroke="rgb(39, 64, 43)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2148,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(27, 107, 21)" stroke="rgb(27, 107, 21)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2345,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(27, 107, 21)" stroke="rgb(27, 107, 21)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2430,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(213, 226, 117)" stroke="rgb(213, 226, 117)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2627,-460 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(213, 226, 117)" stroke="rgb(213, 226, 117)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2712,-460 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(121, 111, 71)" stroke="rgb(121, 111, 71)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M -53,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(121, 111, 71)" stroke="rgb(121, 111, 71)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 32,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(140, 202, 251)" stroke="rgb(140, 202, 251)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 229,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(140, 202, 251)" stroke="rgb(140, 202, 251)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 314,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(200, 235, 171)" stroke="rgb(200, 235, 171)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 511,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(200, 235, 171)" stroke="rgb(200, 235, 171)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 596,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(54, 109, 164)" stroke="rgb(54, 109, 164)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 793,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(54, 109, 164)" stroke="rgb(54, 109, 164)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 878,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(54, 92, 153)" stroke="rgb(54, 92, 153)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1075,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(54, 92, 153)" stroke="rgb(54, 92, 153)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1160,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(155, 187, 237)" stroke="rgb(155, 187, 237)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1357,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(155, 187, 237)" stroke="rgb(155, 187, 237)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1442,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(140, 57, 167)" stroke="rgb(140, 57, 167)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1639,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(140, 57, 167)" stroke="rgb(140, 57, 167)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1724,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(209, 4, 1)" stroke="rgb(209, 4, 1)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1921,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(209, 4, 1)" stroke="rgb(209, 4, 1)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2006,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(137, 205, 191)" stroke="rgb(137, 205, 191)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2203,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(137, 205, 191)" stroke="rgb(137, 205, 191)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2288,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(17, 249, 87)" stroke="rgb(17, 249, 87)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2485,-215 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(17, 249, 87)" stroke="rgb(17, 249, 87)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2570,-215 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(225, 178, 89)" stroke="rgb(225, 178, 89)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 89,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(225, 178, 89)" stroke="rgb(225, 178, 89)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 174,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(19, 230, 250)" stroke="rgb(19, 230, 250)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 371,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(19, 230, 250)" stroke="rgb(19, 230, 250)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 456,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(55, 237, 196)" stroke="rgb(55, 237, 196)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 653,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(55, 237, 196)" stroke="rgb(55, 237, 196)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 738,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(255, 53, 28)" stroke="rgb(255, 53, 28)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 935,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(255, 53, 28)" stroke="rgb(255, 53, 28)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1020,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(237, 161, 138)" stroke="rgb(237, 161, 138)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1217,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(237, 161, 138)" stroke="rgb(237, 161, 138)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1302,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(244, 87, 212)" stroke="rgb(244, 87, 212)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1499,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(244, 87, 212)" stroke="rgb(244, 87, 212)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1584,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(32, 13, 68)" stroke="rgb(32, 13, 68)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1781,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(32, 13, 68)" stroke="rgb(32, 13, 68)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1866,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(15, 129, 178)" stroke="rgb(15, 129, 178)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2063,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(15, 129, 178)" stroke="rgb(15, 129, 178)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2148,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(159, 155, 70)" stroke="rgb(159, 155, 70)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2345,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(159, 155, 70)" stroke="rgb(159, 155, 70)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2430,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(250, 144, 14)" stroke="rgb(250, 144, 14)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2627,30 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(250, 144, 14)" stroke="rgb(250, 144, 14)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2712,30 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(0, 155, 224)" stroke="rgb(0, 155, 224)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M -53,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(0, 155, 224)" stroke="rgb(0, 155, 224)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 32,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(13, 52, 164)" stroke="rgb(13, 52, 164)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 229,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(13, 52, 164)" stroke="rgb(13, 52, 164)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 314,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(224, 37, 249)" stroke="rgb(224, 37, 249)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 511,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(224, 37, 249)" stroke="rgb(224, 37, 249)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 596,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(193, 83, 10)" stroke="rgb(193, 83, 10)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 793,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(193, 83, 10)" stroke="rgb(193, 83, 10)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 878,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(208, 55, 77)" stroke="rgb(208, 55, 77)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1075,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(208, 55, 77)" stroke="rgb(208, 55, 77)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1160,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(225, 155, 64)" stroke="rgb(225, 155, 64)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1357,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(225, 155, 64)" stroke="rgb(225, 155, 64)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1442,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(196, 157, 108)" stroke="rgb(196, 157, 108)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1639,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(196, 157, 108)" stroke="rgb(196, 157, 108)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1724,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(84, 7, 35)" stroke="rgb(84, 7, 35)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1921,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(84, 7, 35)" stroke="rgb(84, 7, 35)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2006,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(16, 208, 145)" stroke="rgb(16, 208, 145)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2203,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(16, 208, 145)" stroke="rgb(16, 208, 145)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2288,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(136, 83, 68)" stroke="rgb(136, 83, 68)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2485,275 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(136, 83, 68)" stroke="rgb(136, 83, 68)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2570,275 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(156, 73, 142)" stroke="rgb(156, 73, 142)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 89,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(156, 73, 142)" stroke="rgb(156, 73, 142)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 174,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(196, 243, 204)" stroke="rgb(196, 243, 204)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 371,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(196, 243, 204)" stroke="rgb(196, 243, 204)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 456,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(44, 0, 224)" stroke="rgb(44, 0, 224)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 653,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(44, 0, 224)" stroke="rgb(44, 0, 224)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 738,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(212, 246, 18)" stroke="rgb(212, 246, 18)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 935,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(212, 246, 18)" stroke="rgb(212, 246, 18)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1020,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(141, 196, 13)" stroke="rgb(141, 196, 13)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1217,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(141, 196, 13)" stroke="rgb(141, 196, 13)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1302,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(7, 177, 20)" stroke="rgb(7, 177, 20)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1499,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(7, 177, 20)" stroke="rgb(7, 177, 20)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1584,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(104, 32, 101)" stroke="rgb(104, 32, 101)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1781,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(104, 32, 101)" stroke="rgb(104, 32, 101)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1866,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(8, 153, 220)" stroke="rgb(8, 153, 220)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2063,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(8, 153, 220)" stroke="rgb(8, 153, 220)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2148,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(40, 81, 135)" stroke="rgb(40, 81, 135)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2345,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(40, 81, 135)" stroke="rgb(40, 81, 135)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2430,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(114, 101, 117)" stroke="rgb(114, 101, 117)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2627,520 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(114, 101, 117)" stroke="rgb(114, 101, 117)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2712,520 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(72, 71, 147)" stroke="rgb(72, 71, 147)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M -53,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(72, 71, 147)" stroke="rgb(72, 71, 147)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 32,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(34, 106, 161)" stroke="rgb(34, 106, 161)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 229,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(34, 106, 161)" stroke="rgb(34, 106, 161)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 314,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(67, 22, 33)" stroke="rgb(67, 22, 33)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 511,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(67, 22, 33)" stroke="rgb(67, 22, 33)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 596,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(62, 67, 41)" stroke="rgb(62, 67, 41)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 793,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(62, 67, 41)" stroke="rgb(62, 67, 41)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 878,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(16, 19, 36)" stroke="rgb(16, 19, 36)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1075,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(16, 19, 36)" stroke="rgb(16, 19, 36)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1160,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(94, 94, 71)" stroke="rgb(94, 94, 71)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1357,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(94, 94, 71)" stroke="rgb(94, 94, 71)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1442,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(237, 55, 119)" stroke="rgb(237, 55, 119)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1639,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(237, 55, 119)" stroke="rgb(237, 55, 119)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1724,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(213, 212, 80)" stroke="rgb(213, 212, 80)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 1921,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(213, 212, 80)" stroke="rgb(213, 212, 80)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2006,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(196, 210, 244)" stroke="rgb(196, 210, 244)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2203,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(196, 210, 244)" stroke="rgb(196, 210, 244)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2288,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(190, 3, 119)" stroke="rgb(190, 3, 119)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2485,765 l -56,97 l 112,0 l -56,-97 Z" fill="rgb(190, 3, 119)" stroke="rgb(190, 3, 119)" stroke-width="50" stroke-linejoin="round"/>
+<path d="M 2570,765 l 112,0 l -56,97 l -56,-97 Z" fill="rgb(163, 170, 69)" stroke="rgb(163, 170, 69)" stroke-width="50" stroke-linejoin="round"/>
+</g>
+
+</svg>

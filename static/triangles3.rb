@@ -1,6 +1,6 @@
 require 'victor'
 
-svg = Victor::SVG.new width: 800, height: 1000, style: { background: '#fff' }
+svg = Victor::SVG.new width: 750, height: 1000, style: { background: '#fff' }
 
 def next_color(color_dict) 
   color_dict[:r] = rand(256)
