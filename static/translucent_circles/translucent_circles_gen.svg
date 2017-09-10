@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 
-<svg width="1000" height="1000" style="background:hsl(230, 50%, 20%)" 
+<svg width="1000" height="1000" style="background:hsl(330, 50%, 20%)" 
   xmlns="http://www.w3.org/2000/svg"
   xmlns:xlink="http://www.w3.org/1999/xlink">
 
@@ -11,15 +11,15 @@
 ]]>
 </style>
 
-<circle cx="87" cy="86" r="231.0" fill="hsl(215, 60%, 50%)" fill-opacity="0.6" stroke="hsl(215, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
-<circle cx="436" cy="376" r="204.0" fill="hsl(200, 60%, 50%)" fill-opacity="0.6" stroke="hsl(200, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
-<circle cx="49" cy="331" r="262.0" fill="hsl(249, 60%, 50%)" fill-opacity="0.6" stroke="hsl(249, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
-<circle cx="917" cy="233" r="212.0" fill="hsl(209, 60%, 50%)" fill-opacity="0.6" stroke="hsl(209, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
-<circle cx="782" cy="96" r="271.0" fill="hsl(203, 60%, 50%)" fill-opacity="0.6" stroke="hsl(203, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
-<circle cx="503" cy="640" r="271.0" fill="hsl(236, 60%, 50%)" fill-opacity="0.6" stroke="hsl(236, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
-<circle cx="644" cy="982" r="255.0" fill="hsl(225, 60%, 50%)" fill-opacity="0.6" stroke="hsl(225, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
-<circle cx="826" cy="986" r="252.0" fill="hsl(228, 60%, 50%)" fill-opacity="0.6" stroke="hsl(228, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
-<circle cx="370" cy="272" r="214.0" fill="hsl(242, 60%, 50%)" fill-opacity="0.6" stroke="hsl(242, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
-<circle cx="456" cy="755" r="293.0" fill="hsl(213, 60%, 50%)" fill-opacity="0.6" stroke="hsl(213, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="280" cy="366" r="289.0" fill="hsl(335, 60%, 50%)" fill-opacity="0.6" stroke="hsl(335, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="780" cy="719" r="218.0" fill="hsl(301, 60%, 50%)" fill-opacity="0.6" stroke="hsl(301, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="335" cy="274" r="239.0" fill="hsl(352, 60%, 50%)" fill-opacity="0.6" stroke="hsl(352, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="77" cy="445" r="277.0" fill="hsl(352, 60%, 50%)" fill-opacity="0.6" stroke="hsl(352, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="187" cy="966" r="244.0" fill="hsl(301, 60%, 50%)" fill-opacity="0.6" stroke="hsl(301, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="936" cy="923" r="225.0" fill="hsl(322, 60%, 50%)" fill-opacity="0.6" stroke="hsl(322, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="295" cy="885" r="267.0" fill="hsl(341, 60%, 50%)" fill-opacity="0.6" stroke="hsl(341, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="105" cy="600" r="292.0" fill="hsl(336, 60%, 50%)" fill-opacity="0.6" stroke="hsl(336, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="388" cy="497" r="252.0" fill="hsl(313, 60%, 50%)" fill-opacity="0.6" stroke="hsl(313, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="947" cy="603" r="294.0" fill="hsl(348, 60%, 50%)" fill-opacity="0.6" stroke="hsl(348, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
 
 </svg>

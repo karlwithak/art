@@ -3,7 +3,7 @@ require 'victor'
 width = 1000
 height = 1000
 circle_max_width = 300
-svg = Victor::SVG.new width: width, height: height, style: { background: 'hsl(230, 50%, 20%)' }
+svg = Victor::SVG.new width: width, height: height, style: { background: 'hsl(330, 50%, 20%)' }
 
 class ColorDict
     attr_accessor :opacity
@@ -15,7 +15,7 @@ class ColorDict
     end
 
     def next_color() 
-      @hue = rand(200..260)
+      @hue = rand(300..360)
     end
 
     def to_hsla()

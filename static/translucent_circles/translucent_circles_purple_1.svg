@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="1000" height="1000" style="background:hsl(270, 50%, 20%)" 
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<style type="text/css">
+<![CDATA[
+
+]]>
+</style>
+
+<circle cx="140" cy="11" r="236.0" fill="hsl(266, 60%, 50%)" fill-opacity="0.6" stroke="hsl(266, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="987" cy="51" r="287.0" fill="hsl(266, 60%, 50%)" fill-opacity="0.6" stroke="hsl(266, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="418" cy="470" r="297.0" fill="hsl(276, 60%, 50%)" fill-opacity="0.6" stroke="hsl(276, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="851" cy="601" r="256.0" fill="hsl(271, 60%, 50%)" fill-opacity="0.6" stroke="hsl(271, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="716" cy="94" r="296.0" fill="hsl(287, 60%, 50%)" fill-opacity="0.6" stroke="hsl(287, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="603" cy="33" r="282.0" fill="hsl(270, 60%, 50%)" fill-opacity="0.6" stroke="hsl(270, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="362" cy="723" r="296.0" fill="hsl(291, 60%, 50%)" fill-opacity="0.6" stroke="hsl(291, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="889" cy="943" r="256.0" fill="hsl(262, 60%, 50%)" fill-opacity="0.6" stroke="hsl(262, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="800" cy="311" r="250.0" fill="hsl(252, 60%, 50%)" fill-opacity="0.6" stroke="hsl(252, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+<circle cx="50" cy="926" r="237.0" fill="hsl(273, 60%, 50%)" fill-opacity="0.6" stroke="hsl(273, 60%, 50%)" stroke-width="4" stroke-opacity="0.8"/>
+
+</svg>
